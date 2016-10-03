@@ -1,0 +1,6 @@
+{
+  "name": "UOA-ESRG",
+  "tagline": "University of Auckland Embedded Systems Research Group",
+  "body": "### Welcome.\r\nWe are a group of PhD students (and academic staff) in the [Electrical and Computer Engineering Department](http://www.ece.auckland.ac.nz/en.html) at the University of Auckland, New Zealand. We have a broad variety of research interests, ranging from computer architecture to formal methods to security. However, everything we do is applied to embedded systems - computers with dedicated functions within a larger mechanical or electrical system, characterised by constrained computing resources and real-time computing requirements.\r\n\r\n### Group Members\r\nNathan Allen - Bioelectronics Modelling\r\nnall426@aucklanduni.ac.nz\r\n\r\nAndrew Chen - Embedded Vision\r\nandrew.chen@auckland.ac.nz\r\n\r\nRyan Kurte - Wireless Sensor Networks\r\nrkur014@aucklanduni.ac.nz\r\n\r\nHammond Pearce - Timing Predictability and Modelling\r\nhpea485@aucklanduni.ac.nz\r\n\r\nZac Roberts - Sensor Network Virtualisation\r\nzrob005@aucklanduni.ac.nz\r\n\r\nBenjamin Tan - Hardware Security\r\nptan262@aucklanduni.ac.nz",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
